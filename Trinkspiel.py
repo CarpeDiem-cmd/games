@@ -287,3 +287,5 @@ def end_of_game():
   sys.exit()
 
 initialize() # sets number of players, names, etc
+
+#testtest
